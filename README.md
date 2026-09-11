@@ -11,7 +11,7 @@
 - 🔭 Currently building **end-to-end profitability & risk analysis** projects in Python and Power BI
 - 🌱 Deepening my skills in **XGBoost, hyperparameter tuning, and dashboard storytelling**
 - 💬 Ask me about **EDA, classification/regression modelling, or BI dashboard design**
-- 📍 Based in London
+- 📍 Based in Canada
 
 ---
 
